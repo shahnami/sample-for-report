@@ -9,6 +9,7 @@ contract MyToken is ERC1155, ERC1155Supply {
 
     // The following functions are overrides required by Solidity.
     // Add some comment
+    // Add another comment
 
     function _beforeTokenTransfer(address operator, address from, address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
         internal
