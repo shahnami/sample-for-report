@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// A comment here
 pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
